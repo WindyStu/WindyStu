@@ -21,3 +21,7 @@ I'm WindyStu, a student and still a total noob in DL and RL. :computer:
 - 📫 How to reach me: Just find the guy crying over bad model performance.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can stare at a paper for 10 hours and still learn nothing.
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)  
